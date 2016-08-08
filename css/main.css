@@ -47,7 +47,7 @@
      width:90%;
      padding-top: 15%;
 }
- /*-------------SECCION SERVIVICOS--------------*/
+ /*SERVICIOS*/
 .servicios{
 	text-align: center;
     padding: 5% 0px 40px 0px
@@ -65,3 +65,4 @@
 .servicio-des p{
 	color:#898989;
 }
+ /*PROYECTOS*/
