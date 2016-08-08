@@ -12,6 +12,27 @@
 	width: 100%;
 	height: 430px;
 }
+.menu{
+	text-decoration: none;
+    color: #9A9AB1;
+    padding: 0px 30px 0px 30px;
+}
+.nav-header a:hover{
+	color: #5E8039;
+}
+ .linea{
+	border-right: 1px #9A9AB1 solid;
+}
+.logo{
+	padding-top: 2%;
+	width:20%;
+	height: auto;
+}
+nav{
+	margin-top: 5%;
+	text-align: left;
+}
+
 .mision img {
 	width: 25%;
 	height: auto;
