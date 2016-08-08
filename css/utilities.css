@@ -1,6 +1,8 @@
 /*Global*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
 *{
-	font-family: "OpenSans-Light" Helvetica;
+	font-family: 'Open Sans', sans-serif;
 }
 
 @font-face{
